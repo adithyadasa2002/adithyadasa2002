@@ -63,7 +63,7 @@ Image-processing based tuberculosis detection from chest X-ray images.
 
 ---
 
-##Education
+Education
 
 **B.Tech – Electronics and Communication Engineering**  
 College of Engineering Chengannur  
@@ -75,7 +75,7 @@ CGPA: **8.19**
 
 ---
 
-##Certification
+Certification
 
 - NPTEL – System Design Through Verilog
 
