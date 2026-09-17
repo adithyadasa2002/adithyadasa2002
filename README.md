@@ -2,13 +2,13 @@
   <img src="profile-banner.png" alt="Adithya Das A - ECE VLSI RTL Design" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Adithya Das A 👋</h1>
+<h1 align="center">Hi, I'm Adithya Das A </h1>
 
 <h3 align="center">Electronics & Communication Engineer | VLSI | RTL Design</h3>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a 2026 B.Tech graduate in Electronics and Communication Engineering
 from College of Engineering Chengannur.
@@ -19,7 +19,7 @@ Currently undergoing VLSI/RTL training at **TXR Academy**.
 
 ---
 
-## 🔧 Technical Skills
+## Technical Skills
 
 - Verilog HDL
 - RTL Design
@@ -37,7 +37,7 @@ Currently undergoing VLSI/RTL training at **TXR Academy**.
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### 🔹 FPGA & RTL Projects
 
@@ -63,7 +63,7 @@ Image-processing based tuberculosis detection from chest X-ray images.
 
 ---
 
-## 🎓 Education
+##Education
 
 **B.Tech – Electronics and Communication Engineering**  
 College of Engineering Chengannur  
@@ -75,16 +75,16 @@ CGPA: **8.19**
 
 ---
 
-## 📜 Certification
+##Certification
 
 - NPTEL – System Design Through Verilog
 
 ---
 
-## 📫 Connect With Me
+##Connect With Me
 
-📧 **Email:** adithyadasa2002@gmail.com
+ **Email:** adithyadasa2002@gmail.com
 
-🔗 **LinkedIn:** [Adithya Das A](https://www.linkedin.com/in/adithya-das-a-815796368/)
+ **LinkedIn:** [Adithya Das A](https://www.linkedin.com/in/adithya-das-a-815796368/)
 
-💻 **GitHub:** [adithyadasa2002](https://github.com/adithyadasa2002)
+ **GitHub:** [adithyadasa2002](https://github.com/adithyadasa2002)
